@@ -32,9 +32,9 @@ function App() {
             <div className="row">
 
               <Card src="https://tse1.mm.bing.net/th?id=OIP.z4KIjrPKa4HAu0ocz3gpLwHaEW&pid=Api&P=0&h=220" title="Farari Car 2024" description="I want to sell my car, only serious buyers contact." location="karachi, pakistan" />
-              <Card src="https://tse2.mm.bing.net/th?id=OIP.roHntiwsK2sQ73ICkLPmaAHaE8&pid=Api&P=0&h=220" title="Farari Car 2024" description="I am selling my car, interested parties only." location="Lahore, pakistan" />
-              <Card src="https://www.wallpapersshare.com/img/big/red-mercedes-benz-cars-ultra-hd-laptop-wallpaper.jpg" title="Farari Car 2024" description="I am selling my car, please contact only if you are genuinely interested.." location="Muree, pakistan" />
-              <Card src="https://wallpaperaccess.com/full/155161.jpg" title="Farari Car 2024" description="I am selling my car, please contact only if you are interested in buying it." location="Islamabad, pakistan" />
+              <Card src="https://tse2.mm.bing.net/th?id=OIP.roHntiwsK2sQ73ICkLPmaAHaE8&pid=Api&P=0&h=220" title="Mercedes Benz" description="I am selling my car, interested parties only." location="Lahore, pakistan" />
+              <Card src="https://www.wallpapersshare.com/img/big/red-mercedes-benz-cars-ultra-hd-laptop-wallpaper.jpg" title="Mercedes Car" description="I am selling my car, please contact only if you are genuinely interested.." location="Muree, pakistan" />
+              <Card src="https://wallpaperaccess.com/full/155161.jpg" title="Jaguar Car " description="I am selling my car, please contact only if you are interested in buying it." location="Islamabad, pakistan" />
 
             </div>
 
